@@ -1,1 +1,2 @@
 Just a help text!
+git is fast!
